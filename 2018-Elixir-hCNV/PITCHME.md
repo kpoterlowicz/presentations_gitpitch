@@ -1,4 +1,4 @@
-## The Galaxy Training Network
+## The Galaxy Training Network & Elixir-Galaxy
 
 ![scale-50](assets/images/training/cover_art.png)
 
