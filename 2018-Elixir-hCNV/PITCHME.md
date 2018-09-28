@@ -1,4 +1,4 @@
-## The Galaxy Training Network
+## The Galaxy Training Network & Elixir-Galaxy
 
 ![scale-50](assets/images/training/cover_art.png)
 
@@ -61,7 +61,7 @@ Designed to be interactive and built around Galaxy
 ---
 ### Hands-on tutorials built around a "research story"
 
-![scale-70 border](assets/images/training/researchstoryfull.png)
+![scale-70 border](assets/images/training/reseach_story4.png)
 
 Note:
 
@@ -98,8 +98,6 @@ more than 90 contributors
 ![topics](assets/images/training/topics.png)
 
 
-
-
 ---
 ### Contribution Fests
 
@@ -107,7 +105,7 @@ more than 90 contributors
 
 ---
 
-## Join our upcoming <br> Contribution Fests
+## Hackathons
 
 - Regular online contribution fests (every 3 months)
 - Biohackathon, Paris, Nov 12-16
@@ -121,11 +119,20 @@ more than 90 contributors
 
 ---
 
-### Training Infrastructure as a Service (TIaaS) <br>on [usegalaxy.eu](usegalaxy.eu)
+### Training Infrastructure as a Service (TIaaS),Freiburg Galaxy Team <br>on [usegalaxy.eu](https://usegalaxy.eu)
 
 ![TIaaS explanation scale-70](assets/images/training/tiaas.png)
 
 ---
+### Message from Elixir-Galaxy community
+ 
+
+- Elixir-Galaxy want to support new communities in the next years even more
+- Elixir-Galaxy thinking of dedicated hackathons with the community to get tools 
+and workflows cleaned up
+- Elixir-Galaxy can help to create dedicated Galaxy flavors (hcnv.usegalaxy.eu ?)(https://hicexplorer.usegalaxy.eu/)
+---
+
 ## Thanks!
 
 Thanks to Elixir-Galaxy Working Group (co-Chairs: Frederik Coppens, Björn Grüning, Gildas Le Corguillé)
