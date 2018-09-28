@@ -127,8 +127,6 @@ UseGalaxy.eu is maintained largely by the Freiburg Galaxy Team but also collecti
 
 ![TIaaS explanation scale-70](assets/images/training/tiaas.png)
 
-
-
 ---
 ### Message from Elixir-Galaxy community
  
