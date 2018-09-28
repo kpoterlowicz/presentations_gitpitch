@@ -125,6 +125,8 @@ more than 90 contributors
 
 ![TIaaS explanation scale-70](assets/images/training/tiaas.png)
 
+UseGalaxy.eu is maintained largely by the Freiburg Galaxy Team but also collectively by groups and individuals from across Europe
+
 ---
 ### Message from Elixir-Galaxy community
  
