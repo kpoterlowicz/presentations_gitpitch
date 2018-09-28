@@ -61,7 +61,7 @@ Designed to be interactive and built around Galaxy
 ---
 ### Hands-on tutorials built around a "research story"
 
-![scale-70 border](assets/images/training/researchstoryfull.png)
+![scale-70 border](assets/images/training/research_story4.png)
 
 Note:
 
