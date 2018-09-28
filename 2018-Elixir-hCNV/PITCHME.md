@@ -125,9 +125,15 @@ more than 90 contributors
 ---
 ## Thanks!
 
-Thanks to Bérénice Batut for leading this effort
+Thanks to Elixir-Galaxy Working Group (co-Chairs: Frederik Coppens, Björn Grüning, Gildas Le Corguillé)
 
-Thanks to our 90+ contributors
+
+
+Thanks to Bérénice Batut for leading of effort of GTN
+
+Thanks to Saskia Hiltemann for sharing slides used in this presentation
+
+Thanks to our 90+ contributors to GTN
 
 Thanks to you for listening
 
