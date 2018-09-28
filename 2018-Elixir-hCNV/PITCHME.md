@@ -98,8 +98,6 @@ more than 90 contributors
 ![topics](assets/images/training/topics.png)
 
 
-
-
 ---
 ### Contribution Fests
 
@@ -130,12 +128,9 @@ more than 90 contributors
  
 
 - Elixir-Galaxy want to support new communities in the next years even more
-
 - Elixir-Galaxy thinking of dedicated hackathons with the community to get tools 
 and workflows cleaned up
-
-- Elixir-Galaxy can help to create dedicated Galaxy flavors (hcnv.usegalaxy.eu ?)
- (https://hicexplorer.usegalaxy.eu/)
+- Elixir-Galaxy can help to create dedicated Galaxy flavors (hcnv.usegalaxy.eu ?)(https://hicexplorer.usegalaxy.eu/)
 ---
 
 ## Thanks!
