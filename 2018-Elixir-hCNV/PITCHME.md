@@ -2,7 +2,7 @@
 
 ![scale-50](assets/images/training/cover_art.png)
 
-Elixir-hCNV Krzys Poterlowicz
+    Elixir-hCNV, Hinxton 28-09-2018, Krzys Poterlowicz
 ---
 
 ### An increasing demand for learning bioinformatics
