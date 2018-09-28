@@ -26,6 +26,14 @@ Most people currently learn bioinformatics
 ![UseGalaxy screenshot scale-50](assets/images/training/usegalaxy.png)
  
 - Web interface for numerous bioinformatics tools
+- Scalable, Accessible, Reproducibile, Transparent
+- No issue with computer configuration during training
+- More than 5,300 [citations](https://www.zotero.org/groups/1732893/galaxy)
+ 
+
+Note:
+
+- Web interface for numerous bioinformatics tools
 - Scalable
 - Accessible
   - Users without programming experience can easily upload/retrieve data, run complex tools and workflows, and visualize   data
@@ -38,6 +46,7 @@ Most people currently learn bioinformatics
 - More than 80 [public Galaxy servers](https://galaxyproject.org/public-galaxy-servers/)
   - Many more non-public
   - Both general-purpose and domain-specific
+
 ---
 
 ### Community-Driven Data Analysis Training for Biology
