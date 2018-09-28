@@ -127,7 +127,10 @@ more than 90 contributors
 
 ---
 ### Message from Elixir-Galaxy community
+
+
 (co-Chairs: Frederik Coppens, Björn Grüning, Gildas Le Corguillé)
+
 
 - Elixir-Galaxy want to support new communities in the next years even more
 - Elixir-Galaxy thinking of dedicated hackathons with the community to get tools 
