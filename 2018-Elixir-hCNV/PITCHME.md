@@ -133,6 +133,7 @@ more than 90 contributors
 and workflows cleaned up,
 - Elixir-Galaxy can help to create dedicated Galaxy flavors (i.e. usegalaxy.hcnv.eu)
 
+---
 
 ## Thanks!
 
