@@ -24,11 +24,20 @@ Most people currently learn bioinformatics
 ### Computational knowledge: not required!
 
 ![UseGalaxy screenshot scale-50](assets/images/training/usegalaxy.png)
-
+ 
 - Web interface for numerous bioinformatics tools
 - Scalable
+- Accessible
+  - Users without programming experience can easily upload/retrieve data, run complex tools and workflows, and visualize   data
+- Reproducibile
+  - Galaxy captures information so that any user can understand and repeat a complete computational analysis
+- Transparent
+  - Users can share or publish their analyses (histories, workflows, visualizations)
 - No issue with computer configuration during training
-
+- More than 5,300 [citations](https://www.zotero.org/groups/1732893/galaxy)
+- More than 80 [public Galaxy servers](https://galaxyproject.org/public-galaxy-servers/)
+  - Many more non-public
+  - Both general-purpose and domain-specific
 ---
 
 ### Community-Driven Data Analysis Training for Biology
