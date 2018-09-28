@@ -3,6 +3,7 @@
 ![scale-50](assets/images/training/cover_art.png)
 
    Elixir-hCNV, Hinxton 28-09-2018, Krzys Poterlowicz
+           @kpbioteam
 ---
 
 ### An increasing demand for learning bioinformatics
