@@ -6,7 +6,7 @@ Slides available with [GitPitch](https://gitpitch.com/) under url:
 
 `https://gitpitch.com/kpoterlowicz/presentations_gitpitch/slides_kp?p=<subfolder name>`
 
-or via the main slide set, which contains links to all other presentations: [https://gitpitch.com/kpoterlowicz/presentations_gitpitch/slides_kp (https://gitpitch.com/kpoterlowicz/presentations_gitpitch/slides_kp)
+or via the main slide set, which contains links to all other presentations: [https://gitpitch.com/kpoterlowicz/presentations_gitpitch/slides_kp](https://gitpitch.com/kpoterlowicz/presentations_gitpitch/slides_kp)
 
 ## Links to Presentations
 
