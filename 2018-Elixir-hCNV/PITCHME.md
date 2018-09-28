@@ -2,6 +2,7 @@
 
 ![scale-50](assets/images/training/cover_art.png)
 
+Elixir-hCNV Krzys Poterlowicz
 ---
 
 ### An increasing demand for learning bioinformatics
