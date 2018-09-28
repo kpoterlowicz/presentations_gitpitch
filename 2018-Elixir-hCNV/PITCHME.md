@@ -121,9 +121,7 @@ more than 90 contributors
 
 ---
 
-### Training Infrastructure as a Service (TIaaS) <br>on [usegalaxy.eu](usegalaxy.eu)
-
-UseGalaxy.eu is maintained largely by the Freiburg Galaxy Team but also collectively by groups and individuals from across Europe
+### Training Infrastructure as a Service (TIaaS),Freiburg Galaxy Team <br>on [usegalaxy.eu](https://usegalaxy.eu)
 
 ![TIaaS explanation scale-70](assets/images/training/tiaas.png)
 
@@ -136,8 +134,8 @@ UseGalaxy.eu is maintained largely by the Freiburg Galaxy Team but also collecti
 - Elixir-Galaxy thinking of dedicated hackathons with the community to get tools 
 and workflows cleaned up
 
-- Elixir-Galaxy can help to create dedicated Galaxy flavors (i.e. usegalaxy.hcnv.eu)
-
+- Elixir-Galaxy can help to create dedicated Galaxy flavors (hcnv.usegalaxy.eu ?)
+ (https://hicexplorer.usegalaxy.eu/)
 ---
 
 ## Thanks!
