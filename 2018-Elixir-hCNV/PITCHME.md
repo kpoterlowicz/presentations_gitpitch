@@ -107,7 +107,7 @@ more than 90 contributors
 
 ---
 
-## Join our upcoming <br> Contribution Fests
+## Hackathons
 
 - Regular online contribution fests (every 3 months)
 - Biohackathon, Paris, Nov 12-16
@@ -126,6 +126,14 @@ more than 90 contributors
 ![TIaaS explanation scale-70](assets/images/training/tiaas.png)
 
 ---
+### Message from Elixir-Galaxy community
+
+- Elixir-Galaxy want to support new communities in the next years even more
+- Elixir-Galaxy thinking of dedicated hackathons with the community to get tools 
+and workflows cleaned up,
+- Elixir-Galaxy can help to create dedicated Galaxy flavors (i.e. usegalaxy.hcnv.eu)
+
+
 ## Thanks!
 
 Thanks to Elixir-Galaxy Working Group (co-Chairs: Frederik Coppens, Björn Grüning, Gildas Le Corguillé)
